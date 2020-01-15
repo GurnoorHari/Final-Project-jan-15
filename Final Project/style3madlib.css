@@ -1,0 +1,72 @@
+body {
+  font-family: "Inria Serif", serif;
+
+  background: url("images/marblebackground5.jpg") center no-repeat fixed;
+}
+#box {
+  background-color: azure;
+  width: 800px;
+  padding-top: 30px;
+  margin: 25px auto;
+  border-radius: 10px;
+  padding-bottom: 20px;
+  text-align: center;
+}
+#top {
+  padding-bottom: 40px;
+  text-align: center;
+}
+#inputname {
+  font-size: 15px;
+}
+button {
+  padding: 2px 10px;
+  margin: 0px 10px;
+  vertical-align: middle;
+  letter-spacing: 1px;
+  font-variant: small-caps;
+  font-weight: bold;
+  color: black;
+}
+
+#mainimg {
+  padding-top: 30px;
+}
+
+#quote {
+  padding: 20px;
+}
+
+#stats {
+  border-collapse: collapse;
+  display: none;
+}
+td {
+  padding: 7px;
+  text-align: left;
+}
+#search-nav {
+  padding-top: 30px;
+}
+#line {
+  border: 0.5px solid black;
+  width: 600px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+li {
+  padding: 10px 0px;
+}
+#madlib {
+  text-align: left;
+}
+#mainImg {
+  width: 400px;
+  padding-top: 30px;
+}
+
+#results img {
+  width: 60px;
+  height: 60px;
+  border: 1px solid black;
+}
